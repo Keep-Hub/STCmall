@@ -1,0 +1,155 @@
+{
+  "result": {
+    "coupon": [
+      {
+        "id": "1",
+        "coupon_title": "8元现金红包",
+        "coupon_price": "1388",
+        "coupon_img": "../../static/images/Ticket/8元现金红包.png"
+      },{
+        "id": "2",
+        "coupon_title": "38元现金红包",
+        "coupon_price": "5888",
+        "coupon_img": "../../static/images/Ticket/38元现金红包.png"
+      },{
+        "id": "3",
+        "coupon_title": "88元现金红包",
+        "coupon_price": "10888",
+        "coupon_img": "../../static/images/Ticket/88元现金红包.png"
+      },{
+        "id": "4",
+        "coupon_title": "2%加息券",
+        "coupon_price": "38888",
+        "coupon_img": "../../static/images/Ticket/2加息券.png"
+      },{
+        "id": "5",
+        "coupon_title": "3%加息券",
+        "coupon_price": "88888",
+        "coupon_img": "../../static/images/Ticket/3加息券.png"
+      },{
+        "id": "6",
+        "coupon_title": "3D电影票",
+        "coupon_price": "48888",
+        "coupon_img": "../../static/images/Ticket/3D电影票.png"
+      },{
+        "id": "7",
+        "coupon_title": "18元现金红包",
+        "coupon_price": "3088",
+        "coupon_img": "../../static/images/Ticket/18元现金红包.png"
+      },{
+        "id": "8",
+        "coupon_title": "68元现金红包",
+        "coupon_price": "8888",
+        "coupon_img": "../../static/images/Ticket/68元现金红包.png"
+      },{
+        "id": "9",
+        "coupon_title": "28元现金红包",
+        "coupon_price": "4588",
+        "coupon_img": "../../static/images/Ticket/28元现金红包.png"
+      },{
+        "id": "10",
+        "coupon_title": "免费提现券",
+        "coupon_price": "1388",
+        "coupon_img": "../../static/images/Ticket/免费提现券.png"
+      }
+    ],
+    "goods": [
+      {
+        "id": "1",
+        "goods_title": "Apple iPhone XR手机 128GB 白色",
+        "goods_price": "8688888",
+        "goods_img": "../../static/images/Goods/Apple iPhone XR手机 128GB 白色.jpg"
+      },{
+        "id": "2",
+        "goods_title": "Apple MacBook Air 13.3英寸笔记本电脑 8GB+138GB",
+        "goods_price": "9088888",
+        "goods_img": "../../static/images/Goods/Apple-MacBook-Air-13.png"
+      },{
+        "id": "3",
+        "goods_title": "Apple iPhone XS Max手机 256GB",
+        "goods_price": "14888888",
+        "goods_img": "../../static/images/Goods/Apple iPhone XS Max手机 256GB.jpg"
+      },{
+        "id": "4",
+        "goods_title": "迪奥（Dior）烈艳蓝金唇膏999 3.5g",
+        "goods_price": "708888",
+        "goods_img": "../../static/images/Goods/迪奥（Dior）烈艳蓝金唇膏999 3.5g.jpg"
+      },{
+        "id": "5",
+        "goods_title": "圣罗兰（YSL）莹亮纯魅唇膏12#",
+        "goods_price": "448888",
+        "goods_img": "../../static/images/Goods/圣罗兰（YSL）莹亮纯魅唇膏12.jpg"
+      },{
+        "id": "6",
+        "goods_title": "天梭(TISSOT)弗拉明戈系列钢带石英女表",
+        "goods_price": "2988888",
+        "goods_img": "../../static/images/Goods/天梭(TISSOT)弗拉明戈系列钢带石英女表.jpg"
+      },{
+        "id": "7",
+        "goods_title": "欧米茄(OMEGA)碟飞系列机械男表",
+        "goods_price": "39888888",
+        "goods_img": "../../static/images/Goods/欧米茄(OMEGA)碟飞系列机械男表.jpg"
+      },{
+        "id": "8",
+        "goods_title": "Apple iPhone XR手机 128GB 黑色",
+        "goods_price": "8688888",
+        "goods_img": "../../static/images/Goods/Apple iPhone XR手机 128GB 黑色.jpg"
+      },{
+        "id": "9",
+        "goods_title": "美的（Midea）电饭煲4L",
+        "goods_price": "418888",
+        "goods_img": "../../static/images/Goods/美的（Midea）电饭煲4L.jpg"
+      },{
+        "id": "10",
+        "goods_title": "小米WalkingPad走步机",
+        "goods_price": "2798888",
+        "goods_img": "../../static/images/Goods/小米WalkingPad走步机.jpg"
+      },{
+        "id": "11",
+        "goods_title": "小米（MI）43英寸人工智能网络平板电视",
+        "goods_price": "1888888",
+        "goods_img": "../../static/images/Goods/小米（MI）43英寸人工智能网络平板电视.jpg"
+      },{
+        "id": "12",
+        "goods_title": "迪奥（Dior）魅惑润唇蜜001# 3.5g",
+        "goods_price": "428888",
+        "goods_img": "../../static/images/Goods/迪奥（Dior）魅惑润唇蜜001 3.5g.jpg"
+      },{
+        "id": "13",
+        "goods_title": "SWAROVSKI 施华洛世奇蝴蝶结女项链",
+        "goods_price": "1388888",
+        "goods_img": "../../static/images/Goods/SWAROVSKI 施华洛世奇蝴蝶结女项链.jpg"
+      },{
+        "id": "14",
+        "goods_title": "小米(MI) 10000毫安 移动电源",
+        "goods_price": "108888",
+        "goods_img": "../../static/images/Goods/小米(MI) 10000毫安 移动电源.jpg"
+      },{
+        "id": "15",
+        "goods_title": "小米（MI）平板电脑",
+        "goods_price": "2088888",
+        "goods_img": "../../static/images/Goods/小米（MI）平板电脑.jpg"
+      },{
+        "id": "16",
+        "goods_title": "飞科(FLYCO)大功率吹风筒2000W",
+        "goods_price": "108888",
+        "goods_img": "../../static/images/Goods/飞科(FLYCO)大功率吹风筒2000W.jpg"
+      },{
+        "id": "17",
+        "goods_title": "iPad mini4 平板电脑 128GB",
+        "goods_price": "4688888",
+        "goods_img": "../../static/images/Goods/iPad mini4 平板电脑 128GB.jpg"
+      },{
+        "id": "18",
+        "goods_title": "小米音箱万能遥控版",
+        "goods_price": "278888",
+        "goods_img": "../../static/images/Goods/小米音箱万能遥控版.jpg"
+      },{
+        "id": "19",
+        "goods_title": "西铁城（CITIZEN）自动机械蓝盘大三针男手表",
+        "goods_price": "2088888",
+        "goods_img": "../../static/images/Goods/西铁城（CITIZEN）自动机械蓝盘大三针男手表.jpg"
+      }
+    ]
+  }
+}

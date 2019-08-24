@@ -1,0 +1,316 @@
+{
+  "result": {
+    "tabularData": [
+      {
+        "id": "1",
+        "actualRepayTime": "2018-10-28 10:04:46",
+        "actualRepayAmount": "223.5",
+        "shouldRepayAmount": "223.5",
+        "overdueDay": "-1",
+        "collectionStaff": "黄恋婷",
+        "caseNumber": "XA18102429721",
+        "Borrower": "*婷婷",
+        "phoneNumber": "1855486***9",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-10-29"
+      },
+      {
+        "id": "2",
+        "actualRepayTime": "2018-9-27 10:03:46",
+        "actualRepayAmount": "133.5",
+        "shouldRepayAmount": "133.5",
+        "overdueDay": "-1",
+        "collectionStaff": "纪曼玲",
+        "caseNumber": "XA18102429756",
+        "Borrower": "*玲玲",
+        "phoneNumber": "1855486***8",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "720天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "3",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***7",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "540天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "4",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***6",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "5",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***9",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "6",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***9",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "7",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***9",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "8",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***9",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "9",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***9",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-8-26"
+      },
+      {
+        "id": "10",
+        "actualRepayTime": "2018-8-26 10:02:46",
+        "actualRepayAmount": "77.5",
+        "shouldRepayAmount": "77.5",
+        "overdueDay": "-1",
+        "collectionStaff": "胡文兰",
+        "caseNumber": "XA18102429766",
+        "Borrower": "*兰兰",
+        "phoneNumber": "1855486***9",
+        "idCard": "510525***********6",
+        "borrowingAmount": "10000",
+        "overduePeriods": "4/12",
+        "toBorrower": "360天",
+        "shouldAlsoDay": "2018-8-26"
+      }
+    ],
+    "loginData": [
+      {
+        "username": "admin",
+        "password": "admin",
+        "imgSrc": "../../static/images/admin.jpg"
+      }
+    ],
+    "awaitQualityData": [
+      {
+        "id": "1",
+        "callingNumber": "01000001306",
+        "calledNumber": "18888888888",
+        "answerStartTime": "2018-10-31 15:59:40",
+        "answerEndTime": "2018-10-31 15:59:47",
+        "callDurationTime": "7",
+        "qualityTestSeat": "8041",
+        "record": "../../../static/audios/qfl.mp3",
+        "collectionStaff": "chenChange"
+      },
+      {
+        "id": "2",
+        "callingNumber": "01000001306",
+        "calledNumber": "18888888888",
+        "answerStartTime": "2018-10-31 15:59:40",
+        "answerEndTime": "2018-10-31 15:59:47",
+        "callDurationTime": "7",
+        "qualityTestSeat": "8041",
+        "record": "../../../static/audios/qfl.mp3",
+        "collectionStaff": "chenChange"
+      },
+      {
+        "id": "3",
+        "callingNumber": "01000001306",
+        "calledNumber": "18888888888",
+        "answerStartTime": "2018-10-31 15:59:40",
+        "answerEndTime": "2018-10-31 15:59:47",
+        "callDurationTime": "7",
+        "qualityTestSeat": "8041",
+        "record": "../../../static/audios/qfl.mp3",
+        "collectionStaff": "chenChange"
+      },
+      {
+        "id": "4",
+        "callingNumber": "01000001306",
+        "calledNumber": "18888888888",
+        "answerStartTime": "2018-10-31 15:59:40",
+        "answerEndTime": "2018-10-31 15:59:47",
+        "callDurationTime": "7",
+        "qualityTestSeat": "8041",
+        "record": "../../../static/audios/qfl.mp3",
+        "collectionStaff": "chenChange"
+      },
+      {
+        "id": "5",
+        "callingNumber": "01000001306",
+        "calledNumber": "18888888888",
+        "answerStartTime": "2018-10-31 15:59:40",
+        "answerEndTime": "2018-10-31 15:59:47",
+        "callDurationTime": "7",
+        "qualityTestSeat": "8041",
+        "record": "../../../static/audios/qfl.mp3",
+        "collectionStaff": "chenChange"
+      },
+      {
+        "id": "6",
+        "callingNumber": "01000001306",
+        "calledNumber": "18888888888",
+        "answerStartTime": "2018-10-31 15:59:40",
+        "answerEndTime": "2018-10-31 15:59:47",
+        "callDurationTime": "7",
+        "qualityTestSeat": "8041",
+        "record": "../../../static/audios/qfl.mp3",
+        "collectionStaff": "chenChange"
+      }
+    ],
+    "systemSetupData": [
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "合众投资",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "合众投资",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "合众投资",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "合众投资",
+        "state": "离职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "合众投资",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "合众投资",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "好易借客服组",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "ererrer",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "催收一部",
+        "state": "在职"
+      },
+      {
+        "accountNumber": "admin",
+        "name": "超级管理员",
+        "phoneNumber": "13888888888",
+        "organization": "催收一部",
+        "state": "在职"
+      }
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
