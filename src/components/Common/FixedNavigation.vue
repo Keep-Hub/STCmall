@@ -5,19 +5,19 @@
                 <p :class="[rotateShow? 're' : 'go']" class="default" @click.stop="rotate($event)"></p>
                 <ul>
                     <li :class="[catapult? 'moveend' : 'movestart']" style="left: -6.6rem; bottom: 0.38rem;">
-                        <img src="../assets/demo/return_me.png" alt="" @click="returnHome(1)">
+                        <img src="../../assets/demo/return_me.png" alt="" @click="returnHome(1)">
                     </li>
                     <li  :class="[catapult? 'moveend1' : 'movestart']" style="left: -6rem; bottom: 2.8rem;">
-                         <img src="../assets/demo/chuizi.png" alt="" @click="returnHome(2)">
+                         <img src="../../assets/demo/chuizi.png" alt="" @click="returnHome(2)">
                     </li>
                     <li  :class="[catapult? 'moveend2' : 'movestart']" style="left: -4.6rem; bottom: 4.8rem;">
-                        <img src="../assets/demo/file.png" alt="" @click="returnHome(3)">
+                        <img src="../../assets/demo/file.png" alt="" @click="returnHome(3)">
                     </li>
                     <li  :class="[catapult? 'moveend3' : 'movestart']" style="left: -2.4rem; bottom: 6.2rem;">
-                        <img src="../assets/demo/Shopping_Cart.png" alt="" @click="returnHome(4)">
+                        <img src="../../assets/demo/Shopping_Cart.png" alt="" @click="returnHome(4)">
                     </li>
                     <li  :class="[catapult? 'moveend4' : 'movestart']" style="left: 0; bottom: 6.8rem;">
-                        <img src="../assets/demo/return_home.png" alt="" @click="returnHome(5)">
+                        <img src="../../assets/demo/return_home.png" alt="" @click="returnHome(5)">
                     </li>
                 </ul>
             </div>
@@ -93,7 +93,7 @@ export default {
         z-index: 1005;
     }
    .go {
-       background: url("../assets/demo/jiantou.png") no-repeat;
+       background: url("../../assets/demo/jiantou.png") no-repeat;
        background-size: 1.2rem 1.2rem;
        animation: rotation 0.3s linear ;
        -moz-animation: rotation 0.3s linear ;
@@ -101,7 +101,7 @@ export default {
        -o-animation: rotation 0.3s linear ;
    }
     .default {
-        background: url("../assets/demo/jiantou.png") no-repeat;
+        background: url("../../assets/demo/jiantou.png") no-repeat;
         background-size: 1.2rem 1.2rem;
     }
     @-webkit-keyframes rotation {
@@ -113,7 +113,7 @@ export default {
         }
     }
     .re {
-        background: url("../assets/demo/X.png") no-repeat;
+        background: url("../../assets/demo/X.png") no-repeat;
         background-size: 1.2rem 1.2rem;
         animation: rotation2 0.3s linear ;
         -moz-animation: rotation2 0.3s linear ;

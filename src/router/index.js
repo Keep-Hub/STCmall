@@ -41,13 +41,13 @@ export default new Router({
     }, {
       path: '/test',
       name: 'test',
-      component: resolve => require(['@/components/loadings'], resolve),
+      component: resolve => require(['@/components/test'], resolve),
       meta: { keepAlive: true, title: '测试页' }
 
     }, {
       path: '/loadings',
       name: 'loadings',
-      component: resolve => require(['@/components/loadings'], resolve),
+      component: resolve => require(['@/components/Common/loadings'], resolve),
       meta: { keepAlive: true }
 
     }, {
@@ -103,32 +103,32 @@ export default new Router({
     }, {
       path: '/setting',
       name: 'setting',
-      component: resolve => require(['@/components/setting/setting'], resolve),
+      component: resolve => require(['@/components/Personal/setting'], resolve),
       meta: { keepAlive: true, title: '设置', requireAuth: true }
     }, {
       path: '/login',
       name: 'login',
-      component: resolve => require(['@/components/login'], resolve),
+      component: resolve => require(['@/components/Personal/login'], resolve),
       meta: { keepAlive: true, title: '登录' }
     }, {
       path: '/register',
       name: 'register',
-      component: resolve => require(['@/components/register'], resolve),
+      component: resolve => require(['@/components/Personal/register'], resolve),
       meta: { keepAlive: true, title: '注册' }
     }, {
       path: '/changepwd',
       name: 'changepwd',
-      component: resolve => require(['@/components/changepwd'], resolve),
+      component: resolve => require(['@/components/Personal/changepwd'], resolve),
       meta: { keepAlive: true, title: '修改密码' }
     }, {
       path: '/updatepwd',
       name: 'updatepwd',
-      component: resolve => require(['@/components/updatepwd'], resolve),
+      component: resolve => require(['@/components/Personal/updatepwd'], resolve),
       meta: { keepAlive: true, title: '修改密码' }
     }, {
       path: '/FixedNavigation',
       name: 'FixedNavigation',
-      component: resolve => require(['@/components/FixedNavigation'], resolve),
+      component: resolve => require(['@/components/Common/FixedNavigation'], resolve),
       meta: { keepAlive: true }
     }
   ]

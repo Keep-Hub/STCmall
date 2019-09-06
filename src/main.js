@@ -8,7 +8,7 @@ import store from './vuex/store'
 // import globalmethod from './globalMethod'//引入全局函数的文件
 import Vuex from 'vuex'
 import axios from 'axios'
-import qs from 'qs'
+import qs from 'qs'// 引入转化请求头
 import { LoadingPlugin } from 'vux'
 Vue.use(LoadingPlugin)
 Vue.use(Vuex)

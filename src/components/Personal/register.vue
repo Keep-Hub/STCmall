@@ -122,7 +122,7 @@ export default {
       showPwdNull: false,
       registration_data: {
         pwdType: 'password',
-        src: require('../assets/demo/ico_eye_close.png')
+        src: require('../../assets/demo/ico_eye_close.png')
       }
     }
   },
@@ -133,7 +133,7 @@ export default {
     // 密码可见切换changeType ()
     changeType () {
       this.registration_data.pwdType = this.registration_data.pwdType === 'password' ? 'text' : 'password'
-      this.registration_data.src = this.registration_data.src === require('../assets/demo/ico_eye_close.png') ? require('../assets/demo/ico_eye_open.png') : require('../assets/demo/ico_eye_close.png')
+      this.registration_data.src = this.registration_data.src === require('../../assets/demo/ico_eye_close.png') ? require('../../assets/demo/ico_eye_open.png') : require('../../assets/demo/ico_eye_close.png')
     },
     submit (position) {
       let user = /^[1][3,4,5,7,8][0-9]{9}$/

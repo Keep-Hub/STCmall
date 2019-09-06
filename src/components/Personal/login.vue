@@ -2,7 +2,7 @@
     <div class="login">
         <div class="login_main">
             <div class="margin_center">
-                <img src="../assets/demo/loginlogo.png" alt="" class="login_logo">
+                <img src="../../assets/demo/loginlogo.png" alt="" class="login_logo">
             </div>
             <!--<form action="" class="login_form">
                 <input type="text" placeholder="请输入手机号码"/>
@@ -100,14 +100,15 @@ export default {
       showPwdNull: false,
       registration_data: {
         pwdType: 'password',
-        src: require('../assets/demo/ico_eye_close.png')
+        src: require('../../assets/demo/ico_eye_close.png')
       }
     }
   },
   methods: {
+    // 密码可见切换changeType ()
     changeType () {
       this.registration_data.pwdType = this.registration_data.pwdType === 'password' ? 'text' : 'password'
-      this.registration_data.src = this.registration_data.src === require('../assets/demo/ico_eye_close.png') ? require('../assets/demo/ico_eye_open.png') : require('../assets/demo/ico_eye_close.png')
+      this.registration_data.src = this.registration_data.src === require('../../assets/demo/ico_eye_close.png') ? require('../../assets/demo/ico_eye_open.png') : require('../../assets/demo/ico_eye_close.png')
     },
     submit (position) {
       let user = /^[1][3,4,5,7,8][0-9]{9}$/
@@ -121,15 +122,15 @@ export default {
           username: _this.loginForm.username,
           password: md5(_this.loginForm.password)
         }).then(response => {
-          let success = response.data.code
-          let tokens = response.data.token
+          let success = response.data.code// 得到的code来判断是否能登录
+          let tokens = response.data.token// 获取token值
           this.usersInfo = JSON.stringify(response.data.id)
           console.log(JSON.stringify(response.data.id))
           console.log(response.data.code)
           if (success === '1' && usernamea !== '' && passworda !== '') {
             console.log('登录成功')
             sessionStorage.setItem('token', tokens)
-            sessionStorage.setItem('userInfo', this.usersInfo)
+            sessionStorage.setItem('userInfo', this.usersInfo)// 存入用户信息到sessionStorage
             if (this.$route.query.redirect) {
               if (this.$route.query.redirect === '/setting') {
                 this.$router.push('/me')

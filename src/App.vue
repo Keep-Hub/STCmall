@@ -10,9 +10,9 @@
 
 <script>
 import { Tabbar, TabbarItem, Group, Cell } from 'vux'
-import inste from './components/footer'
-import load from './components/loadings'
-import menu from './components/FixedNavigation'
+import inste from './components/Common/footer'
+import load from './components/Common/loadings'
+import menu from './components/Common/FixedNavigation'
 export default {
   name: 'App',
   provide () {

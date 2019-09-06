@@ -75,6 +75,7 @@ export default {
       assets: '',
       list: [],
       options: {
+        // 缩略图getThumbBoundsFn()
         getThumbBoundsFn (index) {
           // find thumbnail element
           let thumbnail = document.querySelectorAll('.previewer-demo-img')[index]
